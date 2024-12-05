@@ -24,8 +24,8 @@ Consulte **[Clonando o projeto](#-clonando-o-projeto)** para saber como implanta
 Clone o reposítorio para seu ambiente local
 
 ```bash
-git clone https://github.com/Le-Jr/desafio-vaiNaWeb-loreal.git
-cd desafio-vaiNaWeb-loreal
+git clone https://github.com/Le-Jr/first-landing-page.git
+cd first-landing-page
 ```
 
 ### 2 Editando o projeto
@@ -39,7 +39,7 @@ Tecnologias utilizadas no projeto:
 [![My Skills](https://skillicons.dev/icons?i=html,css,vscode,figma,&theme=light)](https://skillicons.dev)
 
 - [Html](https://developer.mozilla.org/en-US/docs/Web/HTML) - Usado para construir separar o conteúdo da página
-- [Sass](https://developer.mozilla.org/en-US/docs/Web/CSS) - Pré-processador Css utilizado para estilização
+- [Css](https://developer.mozilla.org/en-US/docs/Web/CSS) - Estilização da página
 - [VS Code](https://code.visualstudio.com/) - IDE para construir a aplicação
 
 ## ✒️ Autor
